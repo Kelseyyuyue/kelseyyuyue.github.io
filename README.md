@@ -11,3 +11,4 @@ poem's form through shifts in composition, typography, hierarchy, scale, and pac
 content must remain intact throughout all 20 variations. Define 5 rules of changes for your poems. For
 each of the rule come up with 4 variations each. For example, if the first rule is scale, then invent 4
 significantly different ways of scaling the text.
+
